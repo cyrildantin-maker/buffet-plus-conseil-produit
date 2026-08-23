@@ -53,7 +53,7 @@ Gamme système haut de gamme combinant porcelaine, ardoise, bois, inox, verre et
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=THE%20GRID
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GRID
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 304
 
 ---
@@ -244,7 +244,7 @@ Mélamine + inox + métal, formats Bento Box et Gastronorm, coloris blanc/gris/n
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=ASIA%2B
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=ASIA
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 110
 
 ---
@@ -592,7 +592,7 @@ Mélamine blanche avec texture visuelle imitant la pierre ou le grès. Gamme com
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=STONE%20ART
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=STONE
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 226
 
 ---
@@ -629,7 +629,7 @@ Polypropylène, plusieurs coloris vifs (bleu, brun, gris, noir, orange). Pensée
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=FAST%20FOOD
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=polypropylene
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 176
 
 ---
@@ -780,7 +780,7 @@ Vaisselle émaillée style rétro/vintage. Évoque la cantine vintage des année
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=ENAMELWARE
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Emaille
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 342
 
 ---
@@ -1154,7 +1154,7 @@ Mélamine blanc/noir, gamme orientée buffet international. Formes universelles 
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GLOBAL%20BUFFET
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GLOBAL
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 282
 
 ---
@@ -1492,7 +1492,7 @@ Plateaux inox professionnels -- la référence du service hôtelier. Inox bross�
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Edelstahltabletts
+- Tous les produits de la gamme inox en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=inox
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 47
 
 ---
@@ -1646,7 +1646,7 @@ Inox pur, plateaux et supports de service robustes. La solidité est la valeur p
 
 |||
 |-|-|
-|**Famille**|Structures échelle et gradins buffet|
+|**Famille**|Fontaines|
 |**Références**|16|
 |**Prix catalogue**|10.80 - 210.00 EUR/pièce|
 |**Matières**|metal, verre|
@@ -1673,16 +1673,16 @@ Métal et verre -- structures échelle/gradins pour buffets étagés. Crée de l
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Buffetleiter
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=fontaine
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 122
 
 ---
 
-### Heizelemente
+### chaffing dish
 
 |||
 |-|-|
-|**Famille**|Éléments chauffants buffet|
+|**Famille**|chaffing dish|
 |**Références**|14|
 |**Prix catalogue**|6.30 - 240.00 EUR/pièce|
 |**Matières**|aluminium, bois, inox, metal, polypropylene|
@@ -1711,8 +1711,8 @@ Aluminium + bois + inox + métal. Éléments chauffants pour maintien en tempér
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Heizelemente
-- Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 19
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=chafing
+- Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 423
 
 ---
 
@@ -1961,8 +1961,8 @@ Manger bien en allemand. Plateaux de service café/hôtelier en inox -- standard
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=SCH%C3%96NER%20ESSEN
-- Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 166
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=inox
+- Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 148
 
 ---
 
@@ -2107,7 +2107,7 @@ Bois + inox + mélamine + métal, coloris blanc, noir, orange. Gamme de dispense
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Getr%C3%A4nkedispenser
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=fontaine
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 27
 
 ---
@@ -2139,7 +2139,7 @@ Acrylique + aluminium + inox, coloris cuivre et noir. Seaux à champagne et rafr
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Wein-%20/%20Sektk%C3%BChler
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=seau
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 152
 
 ---
@@ -2247,7 +2247,7 @@ Acrylique + inox + SAN + silicone, gris français et transparent. Carafes et pic
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Kannen%20/%20Karaffen
+- Toutes les carafes en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=carafes
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 145
 
 ---
@@ -2283,7 +2283,7 @@ Inox noir -- cafetières et pots à lait professionnels. Le noir donne un rendu 
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Kaffee-%20/%20Milchkannen
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=pots
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 570
 
 ---
@@ -2640,7 +2640,7 @@ Verre transparent. Petits pots et verrines pour mise en bouche, dégustation, ve
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Gourmetgl%C3%A4ser
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=verrines
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 344
 
 ---
@@ -2893,7 +2893,7 @@ Mélamine blanc, noir et vert. Cuillères de dégustation pour mises en bouche, 
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Fingerfoodl%C3%B6ffel
+- Toute la gamme de cuilleres en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=cuillere
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 252
 
 ---
@@ -2999,7 +2999,7 @@ Inox -- bacs Gastronorm et couvercles standards (87 refs, la plus volumineuse du
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GN-Beh%C3%A4lter%20/%20-deckel%20aus%20Edelstahl
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GN
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 491
 
 ---
@@ -3035,7 +3035,7 @@ Acrylique + polystyrène + SAN. Cloches de buffet et couvercles de présentation
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=Hauben
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=cloche
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 47
 
 ---
@@ -3070,7 +3070,7 @@ Polypropylène -- bacs GN en plastique alimentaire. Alternative économique aux 
 
 **Retrouver la gamme**
 
-- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GN-Beh%C3%A4lter%20/%20-Deckel%20aus%20Polypropylen
+- Tous les produits en ligne : https://www.buffet-plus.com/elasticsearch/all/product?string=GN%20Polypropylen
 - Catalogue Buffet-Plus 2026 (feuilleter) : https://www.calameo.com/read/000106117a191068e08d6 — gamme présentée à partir de la page 496
 
 ---
